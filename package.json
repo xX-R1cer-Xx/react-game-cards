@@ -1,6 +1,6 @@
 {
   "name": "react-game-cards",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "./dist/components/PlayingCard.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "files": [
     "dist",
-    "types"
+    "types",
+    "style"
   ],
   "author": "yusuke harada",
   "license": "MIT",
